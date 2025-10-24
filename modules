@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Voorbereiding Fullstack Developer Opleiding</title>
+    <style>
+        /* Hier begint de CSS voor de styling */
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f7f9; /* Lichtgrijze achtergrond */
+            color: #333; /* Donkergrijze tekstkleur */
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 900px; /* Maximale breedte van de inhoud */
+            margin: 40px auto; /* Centreer de container op de pagina */
+            background-color: #ffffff; /* Witte achtergrond voor de container */
+            padding: 30px;
+            border-radius: 8px; /* Afgeronde hoeken */
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1); /* Lichte schaduw */
+        }
+
+        h1 {
+            color: #007bff; /* Blauwe hoofdtitel */
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 10px;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+        
+        h2 {
+            color: #28a745; /* Groene subtitel */
+            margin-top: 25px;
+        }
+
+        .module-list {
+            list-style: none; /* Verwijder standaard opsommingstekens */
+            padding: 0;
+        }
+
+        .module-list li {
+            background-color: #e9f7ef; /* Zeer lichte groene achtergrond voor lijstitems */
+            margin-bottom: 12px;
+            padding: 15px;
+            border-radius: 4px;
+            border-left: 5px solid #28a745; /* Groene balk aan de linkerkant */
+            transition: background-color 0.3s;
+        }
+        
+        .module-list li:hover {
+            background-color: #d1ecf1; /* Lichtblauwe kleur bij hover */
+        }
+
+        .module-list a {
+            text-decoration: none; /* Verwijder onderstreping bij links */
+            color: #0056b3; /* Donkerblauwe linkkleur */
+            font-weight: bold;
+            display: block; /* Zorg ervoor dat de hele blok klikbaar is */
+        }
+        
+        .module-list a:hover {
+            text-decoration: underline;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 Voorbereiding Fullstack Developer Opleiding</h1>
+        <p>Welkom, toekomstige Fullstack Developer! Om je zo goed mogelijk voor te bereiden op de start van de opleiding, vragen we je om de onderstaande online modules alvast door te nemen. Succes!</p>
+        
+        <h2>Verplichte Voorbereidende Modules</h2>
+        
+        <ul class="module-list">
+            <li>
+                <a href="https://www.vdab.be/opleidingen/aanbod/800864/cursus/172238/Informatica__Programmatielogica-online" target="_blank" rel="noopener noreferrer">
+                    Programmatielogica 🧠 (Cruciaal voor elk programmeur)
+                </a>
+            </li>
+            <li>
+                <a href="https://www.vdab.be/opleidingen/aanbod/800865/cursus/172314/Informatica_-_Gegevensanalyse-online" target="_blank" rel="noopener noreferrer">
+                    Gegevensanalyse 📊 (Leren omgaan met data)
+                </a>
+            </li>
+            <li>
+                <a href="https://www.vdab.be/opleidingen/aanbod/O-AMI-801407/Webdesign_-_HTML5_en_CSS3" target="_blank" rel="noopener noreferrer">
+                    Webdesign - HTML5 en CSS3 🎨 (De basis van elke website)
+                </a>
+            </li>
+            <li>
+                <a href="https://www.vdab.be/opleidingen/aanbod/800751/cursus/151643/Informatica_-_SQL-online" target="_blank" rel="noopener noreferrer">
+                    Informatica - SQL 💾 (De taal van databases)
+                </a>
+            </li>
+            <li>
+                <a href="https://www.vdab.be/opleidingen/aanbod/O-AMI-801139/cursus/C-AMI-207262/JavaScript-online" target="_blank" rel="noopener noreferrer">
+                    JavaScript 🌐 (Essentieel voor interactieve websites)
+                </a>
+            </li>
+            <li>
+                <a href="https://www.vdab.be/opleidingen/aanbod/800575/cursus/146376/Informatica%20Scrum-online" target="_blank" rel="noopener noreferrer">
+                    Informatica Scrum 🤝 (Werken in een Agile team)
+                </a>
+            </li>
+        </ul>
+        
+        <p>Veel succes met de voorbereiding!</p>
+    </div>
+</body>
+</html>
