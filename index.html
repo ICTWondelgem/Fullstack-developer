@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/twemoji@14.0.2/dist/twemoji.min.js" crossorigin="anonymous"></script>
     <title>Voorbereiding Fullstack Developer Opleiding</title>
     <style>
         /* Hier begint de CSS voor de styling */
@@ -84,6 +85,11 @@
             text-decoration: underline;
         }
 
+        img.emoji {
+            width: 1em;
+            height: 1em;
+        }
+
     </style>
 </head>
 <body>
@@ -136,5 +142,9 @@
         
         <p>Veel succes met de voorbereiding!</p>
     </div>
+
+    <script>
+        twemoji.parse(document.body);
+    </script>
 </body>
 </html>
